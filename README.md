@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+It is Todo List app. Here I use GetX Package. Getx State management and stroage using this todo list app.
+
+## OutPut
+
+![GETX](https://user-images.githubusercontent.com/75200754/111736326-d175b400-88a7-11eb-8e60-fd50bd6fc951.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
